@@ -8,4 +8,4 @@
 6.At present the results are limited to FLIPKART AND EBAY only.
 7.In any page if you want to return to home, you can press home button on header or logo which will redirect you to homepage.
 
-IN CASE IF CODE DOSENT WORK PLEASE CALL +919494421244(SUSHANTH) OUR BACKEND DESIGNER or +919573544566(KRISHNA) FRONTEND DESIGNER and they will guide you through.
+IN CASE IF CODE DOSENT WORK PLEASE CALL +919494421244(SUSHANTH) OUR LOGIC WRITER or +919573544566(KRISHNA) FRONTEND DESIGNER and they will guide you through.
